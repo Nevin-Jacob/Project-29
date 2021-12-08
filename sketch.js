@@ -41,7 +41,7 @@ function setup() {
   
   Matter.Composite.add(bridge.body, jointPoint);
 
-  //Matter.Composite.add(jointPoint);
+  //Matter.Composite.add(jointPoint);;
   
   //Matter.Composite.add(jointPoint, bridge.body);
   
